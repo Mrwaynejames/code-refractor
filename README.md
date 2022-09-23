@@ -1,1 +1,13 @@
 # code-refractor
+
+## Optimiizng Code Efficency
+
+In this project we cut down on the amount of code needed to structure and style the website as well as increase readbaility of the HTML and CSS code.
+
+The reason behind this project is to make it easier to implememnt future attributes to the code. The code before this project utilized many unneccsarry class and id tags. Now when a future programmer goes to look at this code and needs to add either of those tags the program will be as lean as possible.
+
+This will allow programmers to view this source code and see exactly what it's doing in a concise and semantic way. The goal was to make is so someone could look at the CSS code and understadn what parts of the HTML is being affected without the need of a lot of back and fourth betweeen pages.
+
+Through this process I learned how to effectively use different CSS selector variations. This pushed me to be more semantic with my elements in order to minimize the need of class/ID tags. Vice Versa it showed me the importance of class/ID tags and how they can be a crucial component when needed.
+
+What you will notice in my project is that the different use of semantic tags are utilized more than to describe what youre looking at but what is important on the page and the flow of information within HTML.
