@@ -13,6 +13,7 @@ Through this process I learned how to effectively use different CSS selector var
 What you will notice in my project is that the different use of semantic tags are utilized more than to describe what youre looking at but what is important on the page and the flow of information within HTML.
 
 ## Deployed Link 
+https://mrwaynejames.github.io/code-refractor/
 
 ## Installation 
 
