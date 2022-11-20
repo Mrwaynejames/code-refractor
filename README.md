@@ -23,10 +23,9 @@ https://mrwaynejames.github.io/code-refractor/
 git clone git@github.com:Mrwaynejames/code-refractor.git
 
 ## License
-
-MIT License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-Copyright (c) [2022] [Jack McWilliams]
+
+MIT Licens Copyright (c) [2022] [Jack McWilliams]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
