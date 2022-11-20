@@ -1,6 +1,7 @@
 # code-refractor
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-## Optimiizng Code Efficency
+## Description
 
 In this project we cut down on the amount of code needed to structure and style the website as well as increase readbaility of the HTML and CSS code.
 
@@ -12,6 +13,8 @@ Through this process I learned how to effectively use different CSS selector var
 
 What you will notice in my project is that the different use of semantic tags are utilized more than to describe what youre looking at but what is important on the page and the flow of information within HTML.
 
+![syntax](assets/images/Screen%20Shot%202022-11-19%20at%204.29.23%20PM.png))
+
 ## Deployed Link 
 https://mrwaynejames.github.io/code-refractor/
 
@@ -22,7 +25,7 @@ git clone git@github.com:Mrwaynejames/code-refractor.git
 ## License
 
 MIT License
-
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 Copyright (c) [2022] [Jack McWilliams]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
